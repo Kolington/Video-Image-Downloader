@@ -1,0 +1,28 @@
+LIVE DEMO SITE/CODE DOWNLOAD - https://www.codingnepalweb.com/download-file-from-url-with-javascript/
+
+Paste url of image, video, or pdf to download. This tool is made with vannilla javascript
+
+/* CSS Code by Oluwagbemiga Kolawole */
+
+
+/* Import Google Font - Poppins */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@400;500;600&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: ;
+}
+
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer">
+<link rel="stylesheet" href="font-awesome.min.css">
